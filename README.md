@@ -21,7 +21,7 @@ The Mental Health Support Chatbot offers users a safe space to discuss their fee
 
 **1. Clone the repository:**
 ```
-git clone https://github.com/your-username/mental-health-chatbot-server.git
+git clone [https://github.com/Aalia-Fathima/AI-Mental-health-supporter-chatbot-server.git](https://github.com/Aalia-Fathima/AI-Mental-health-supporter-chatbot-server.git)
 cd mental-health-chatbot-server
 ```
 **2. Install dependencies:**
