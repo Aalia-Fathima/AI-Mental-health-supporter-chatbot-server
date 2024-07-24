@@ -24,4 +24,23 @@ The Mental Health Support Chatbot offers users a safe space to discuss their fee
 git clone https://github.com/your-username/mental-health-chatbot-server.git
 cd mental-health-chatbot-server
 ```
+**2. Install dependencies:**
+```
+npm install
+```
+**3. Set up environment variables:**
+Create a .env file in the root of the project:
+```
+GEMINI_API_KEY=your-gemini-api-key
+```
+**4. Start the server:**
+```
+node index.js
+```
+## License
+This project is licensed under the MIT License.
+
+
+
+
 
