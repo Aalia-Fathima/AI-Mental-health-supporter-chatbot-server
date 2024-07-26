@@ -29,7 +29,7 @@ cd AI-Mental-health-supporter-chatbot-server
 npm install
 ```
 **3. Set up environment variables:**
-Create a .env file in the root of the project:
+- Create a .env file in the root of the project:
 ```
 GEMINI_API_KEY=your-gemini-api-key
 ```
