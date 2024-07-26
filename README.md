@@ -15,7 +15,7 @@ The Mental Health Support Chatbot offers users a safe space to discuss their fee
 
 ## Deployment
 
-- **Server-side:** Deployed on [render](https://render.com)
+**Server-side:** Deployed on [render](https://render.com)
 
 ## Installation
 
