@@ -13,7 +13,8 @@ app.use(express.json());
 // app.use(cors());
 // Allow requests from your Next.js client
 app.use(cors({
-  origin: 'https://mental-health-support-chatbot.netlify.app/',
+  origin: 'https://mental-health-support-chatbot.netlify.app', // Replace with your Netlify URL
+  optionsSuccessStatus: 200,
 }));
 
 let chatHistory = [];
