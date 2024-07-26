@@ -10,10 +10,10 @@ const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 const app = express();
 app.use(express.json());
-// app.use(cors());
+
 // Allow requests from your Next.js client
 app.use(cors({
-  origin: 'https://mental-health-support-chatbot.netlify.app', // Replace with your Netlify URL
+  origin: 'https://mental-health-support-chatbot.netlify.app', 
   optionsSuccessStatus: 200,
 }));
 
